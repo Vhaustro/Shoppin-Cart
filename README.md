@@ -7,8 +7,8 @@ A program that simulates a basic shopping cart. The program provides a user-frie
 
 Key Concepts:
 
-for loop: Use of a loop to repeatedly interact with the user and manage the cart.
-Variables: Stored cart items, prices, and user input.
-Constants: Defined constants for operation symbols and default values.
-Values: Handling numerical values for calculating costs.
-Arrays/Slices: Use of arrays or slices to manage cart items.
+- Loops: Use of a loop to repeatedly interact with the user and manage the cart.
+- Variables: Stored cart items, prices, and user input.
+- Constants: Defined constants for operation symbols and default values.
+- Values: Handling numerical values for calculating costs.
+- Arrays/Slices: Use of arrays or slices to manage cart items.
